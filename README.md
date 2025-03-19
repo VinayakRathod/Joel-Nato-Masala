@@ -55,10 +55,9 @@ cd Joel-Nato-Masala
 
 ## 💡 Contributing
 Feel free to fork this repository and submit pull requests.
-Done By 
-
-#Vinayak Rathode
-#Dipanshu Sharma
+Done By :
+## Vinayak Rathode
+## Dipanshu Sharma
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
