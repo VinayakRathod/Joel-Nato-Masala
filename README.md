@@ -17,7 +17,7 @@ Joel-Masala/
 │   │   ├── ...
 │   ├── fonts/            # Custom fonts (if any)
 │
-│-- templates/            # Contains HTML files
+│             # Contains HTML files
 │   │-- index.html        # Homepage
 │   │-- about.html        # About page
 │   │-- products.html     # Products page
