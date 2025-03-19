@@ -14,15 +14,16 @@
     --footer-bg: #333;
   }
   
-  @font-face {
+@font-face {
     font-family: 'HYWenHei-85W';
-    src: url('stactic/images/genshin') format('truetype');
+    src: url('static/images/genshin.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-  }
-  
+}
+
+
   body {
-    font-family: 'HYWenHei-85W', Arial, sans-serif;
+    font-family: 'HYWenHei-85W', sans-serif;
     background-color: var(--secondary-color);
     color: var(--primary-color);
     line-height: 1.6;
