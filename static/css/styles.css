@@ -14,13 +14,12 @@
     --footer-bg: #333;
   }
   
-@font-face {
+  @font-face {
     font-family: 'HYWenHei-85W';
-    src: url('static/images/genshin.ttf') format('truetype');
+    src: url('static/genshin.ttf') format('truetype'); /* Correct file path */
     font-weight: normal;
     font-style: normal;
 }
-
 
   body {
     font-family: 'HYWenHei-85W', sans-serif;
