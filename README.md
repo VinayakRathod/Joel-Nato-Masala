@@ -47,12 +47,7 @@ cd Joel-Nato-Masala
   ```bash
   python -m http.server 8000  # For Python users
   ````
-
-### 3️⃣ **Deploy on GitHub Pages**
-1. Go to **Settings** > **Pages**
-2. Set the branch to `main` and folder to `/root`
-3. Save changes and access your site at `https://yourusername.github.io/Joel-Nato-Masala/`
-
+  
 ## 💡 Contributing
 Feel free to fork this repository and submit pull requests.
 Done By :
