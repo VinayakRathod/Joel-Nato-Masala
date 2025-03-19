@@ -16,7 +16,7 @@
   
 @font-face {
     font-family: 'HYWenHei-85W';
-    src: url('static/images/genshin') format('truetype');
+    src: url('static/images/genshin.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
