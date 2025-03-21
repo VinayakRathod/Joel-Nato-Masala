@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Sign In Successful</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    @font-face {
+    font-family: 'HYWenHei-85W';
+    src: url('static/css/genshin.ttf') format('truetype'); /* Correct file path */
+    font-weight: normal;
+    font-style: normal;
+}
+
+    body {
+        font-family: 'HYWenHei-85W', sans-serif;
+      background-color: #f4f4f4;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+    }
+
+    .success-container {
+      background: white;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      max-width: 400px;
+    }
+
+    .success-container h2 {
+      color: #28a745;
+      font-size: 24px;
+      margin-bottom: 15px;
+    }
+
+    .success-container p {
+      font-size: 16px;
+      margin-bottom: 20px;
+      color: #333;
+    }
+
+    .continue-btn {
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #007bff;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      transition: background 0.3s;
+    }
+
+    .continue-btn:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="success-container">
+    <h2>Sign In Successful!</h2>
+    <p>You can now continue to shopping.</p>
+    <a href="index.html" class="continue-btn">Continue Shopping</a>
+  </div>
+
+</body>
+</html>
